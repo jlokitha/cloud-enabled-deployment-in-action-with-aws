@@ -13,7 +13,11 @@ A **cloud-ready microservices application** demonstrating full-stack development
 
 ---
 
-<p align="center"> <a href="https://drive.google.com/file/d/1_8cZFj6s3nJ5NYVW0jUezo-OADNyMfED/view?usp=sharing" target="_blank" style="text-decoration: none;"> <kbd style="padding: 12px 25px; font-size: 16px; border-radius: 8px; background-color: #4CAF50; color: white; font-weight: bold; cursor: pointer;"> ▶ Watch Demo </kbd> </a> </p>
+<p align="center">
+  <a href="https://drive.google.com/file/d/1_8cZFj6s3nJ5NYVW0jUezo-OADNyMfED/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Watch_Demo-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white" alt="Watch Demo"/>
+  </a>
+</p>
 
 ---
 
