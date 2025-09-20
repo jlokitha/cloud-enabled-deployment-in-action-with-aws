@@ -1,5 +1,23 @@
 # 🌩️ Cloud-Enabled Deployment with **AWS** & **GCP**
 
+<div style="display:flex; flex-direction:column; align-items:flex-start; font-family:Arial, sans-serif; font-size:14px; font-weight:600; line-height:1;">
+
+  <p style="margin:0; background:#000000; color:#ffffff; padding:8px 14px; border-radius:6px; display:inline-flex; align-items:center; gap:6px;">
+    👤 Name: Janindu Lokitha
+  </p>
+
+  <p style="margin:0; background:#000000; color:#ffffff; padding:8px 14px; border-radius:6px; display:inline-flex; align-items:center; gap:6px;">
+    📧 Email: ljanindulokitha@gmail.com
+  </p>
+
+  <p style="margin:0; background:#000000; color:#ffffff; padding:8px 14px; border-radius:6px; display:inline-flex; align-items:center; gap:6px;">
+    🎓 Student No: 2301682045
+  </p>
+
+</div>
+
+---
+
 A **cloud-ready microservices application** demonstrating full-stack development with **local development** and **cloud deployment** support.
 
 ### 🔹 Key Projects in this Repository
